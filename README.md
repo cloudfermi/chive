@@ -44,7 +44,8 @@ disconnect clients.
 - IO2 (SYS Led, active low)
 - IO15 (ACTIVITY Led, active low).
 # User Guide
-- Please refer to https://drive.google.com/file/d/18Kykagh5T9F9ALrh75DmNdfSj6Xic4-4/view?fbclid=IwAR1c5EePUiopx_BuqRjZnmq6yW1p5GiQ9r3spscxuG8O04npID809Jw2bDY
+- Please refer to https://drive.google.com/file/d/18Kykagh5T9F9ALrh75DmNdfSj6Xic4-4/view
+- and https://drive.google.com/file/d/1hgYMJvaeOWBA8W5PGBhrbFi8se1-KYuu/view
 # License
 - This is our completely proprietary firmware design, ready to run in production. Require some fee for our efforts of code design, maintenance, and support.
 - Please contact us for more details of remote provisioning cHive firmware on your own hardware, and others.
