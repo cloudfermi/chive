@@ -38,6 +38,7 @@ disconnect clients.
 - Limit usage of LWT, retained messages to save RAM.
 - Running MicroPython code is slow. Avoid using it too much in broker processing flow.
 # Required GPIOs
+![ESP32 required GPIOs](ESP32_required_GPIOs.png)
 - EN reset, input.
 - IO34 (SYS button) active low, input.
 - IO32 (SPEAKER), active high, output. Driving piezo speaker, required driver circuit. 
