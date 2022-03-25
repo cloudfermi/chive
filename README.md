@@ -20,7 +20,7 @@ made at MicroPython side.
 - Support device/group/broadcast publish from broker (local) to other clients following EXT API defined by
 CloudFERMI.
 - TLS, non-clear sessions, other QoS (1, 2) not supported.
-- Support Wifi AP/STA.
+- Support Wifi AP/STA. STA with dynamic (DHCP) and static IP assignment.
 - cBoot Manager embedded to support remote firmware upgrade and other provisioning.
 # Recommendations & Limitations
 - Message length < 4096 bytes.
