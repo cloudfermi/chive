@@ -47,7 +47,7 @@ disconnect clients.
 - Please refer to https://drive.google.com/file/d/18Kykagh5T9F9ALrh75DmNdfSj6Xic4-4/view
 - and https://drive.google.com/file/d/1hgYMJvaeOWBA8W5PGBhrbFi8se1-KYuu/view
 # License
-- This is our completely proprietary firmware design, ready to run in production. Require some fee for our efforts of code design, maintenance, and support.
+- This is our completely proprietary firmware design, ready to run in production. Require some fee per firmware downloading to your ESP32 chip for our efforts of code design, maintenance, and support.
 - Please contact us for more details of remote provisioning cHive firmware on your own hardware, and others.
 # Contacts
 - Please email to info@cloudfermi.com, or cloudfermi@gmail.com
