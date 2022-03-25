@@ -38,11 +38,11 @@ disconnect clients.
 - Limit usage of LWT, retained messages to save RAM.
 - Running MicroPython code is slow. Avoid using it too much in broker processing flow.
 # Required GPIOs
-- EN: reset
-- IO34 (SYS button, active low)
-- IO32 (SPEAKER, active high) driving piezo speaker, required driver circuit. 
-- IO2 (SYS Led, active low)
-- IO15 (ACTIVITY Led, active low).
+- EN reset, input.
+- IO34 (SYS button) active low, input.
+- IO32 (SPEAKER), active high, output. Driving piezo speaker, required driver circuit. 
+- IO2 (SYS Led), active low, output.
+- IO15 (ACTIVITY Led), active low, output.
 # User Guide
 - Please refer to https://drive.google.com/file/d/18Kykagh5T9F9ALrh75DmNdfSj6Xic4-4/view
 - and https://drive.google.com/file/d/1hgYMJvaeOWBA8W5PGBhrbFi8se1-KYuu/view
