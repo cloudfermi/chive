@@ -1,5 +1,5 @@
 # cHive MQTT Broker
-A plug-n-play on-chip MQTT broker for IoT rapid deployment based on ESP32
+A Plug-n-Play On-Chip MQTT broker for IoT rapid deployment based on ESP32
 # Overview
 - Target to no setup time, no maintenance, 24/7 reliable operation, low power and very small size.
 - For rapid deployment of IoT projects in data collection and distributed control.
